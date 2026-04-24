@@ -6,7 +6,11 @@ WallSync is a free macOS app for managing animated wallpapers across displays.
 
 ## Download
 
-The latest public build will be available from the [WallSync releases page](https://github.com/yurisantos-y/WallSync-downloads/releases/latest).
+Download the latest public build here:
+
+[Download WallSync for macOS](https://github.com/yurisantos-y/WallSync-downloads/releases/latest/download/WallSync-1.0-macOS.zip)
+
+You can also visit the [WallSync releases page](https://github.com/yurisantos-y/WallSync-downloads/releases/latest).
 
 ## Requirements
 
@@ -15,10 +19,20 @@ The latest public build will be available from the [WallSync releases page](http
 
 ## Install
 
-1. Download `WallSync.dmg` from the latest release.
-2. Open the DMG.
-3. Drag `WallSync.app` to `Applications`.
+1. Download `WallSync-1.0-macOS.zip`.
+2. Open the ZIP file to extract `WallSync.app`.
+3. Move `WallSync.app` to `Applications`.
 4. Open WallSync from `Applications`.
+
+## Verify
+
+SHA-256 for `WallSync-1.0-macOS.zip`:
+
+```text
+09cfefbb9a34687ef9d2f739a9d3824906f32096c817d293bdb6d73893be3817
+```
+
+The app is signed with Developer ID and accepted by Gatekeeper as notarized.
 
 ## License
 
