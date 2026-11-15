@@ -29,7 +29,7 @@ You can also visit the [WallSync releases page](https://github.com/yurisantos-y/
 SHA-256 for `WallSync.dmg`:
 
 ```text
-1ec56b94ca0092c707e12a7294a6707a4914da0f08eafcc5879ecd998cdb35f5
+d524d448fac3c2f8c2b810c74cbdee62f84f52c54109875a9a84b4cee8585645
 ```
 
 The app is signed with Developer ID and accepted by Gatekeeper as notarized.
